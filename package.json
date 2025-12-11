@@ -1,5 +1,7 @@
 {
-  "name": "growthbook",
-  "workspaces": ["/back-end"],
-  "private": true
+  "name": "growthbook-server",
+  "private": true,
+  "workspaces": [
+    "packages/back-end"
+  ]
 }
